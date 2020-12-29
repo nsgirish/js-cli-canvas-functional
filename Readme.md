@@ -6,8 +6,8 @@ rectangle.
 
 ## Pre-requisities:
 ---
-Node.js 
-Mocha 8.2.1 or higher
+- Node.js 
+- Mocha 8.2.1 or higher
 ---
 
 ## Code structure: 
@@ -26,6 +26,6 @@ Mocha 8.2.1 or higher
 
 ## Running Application:
 ---
-To run the application, run command => npm run main
-To execute unit tests, run command => npm test
+- To run the application, run command => npm run main
+- To execute unit tests, run command => npm test
 ---
