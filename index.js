@@ -2,7 +2,6 @@
 const cmdParser = require('./components/cmdParser')
 
 const main = async() => {
-    console.log('OM SHIRIDI SAI BABA NAMAHA')
 
     console.log('node js console canvas 1.0');
     
